@@ -1,6 +1,2 @@
-pandas
-numpy
-tensorflow
-pillow
-imageio
-keras
+huggingface_hub
+ultralytics
