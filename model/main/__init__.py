@@ -1,5 +1,5 @@
-from .model import ImageClassifier
+from .model import FrogFactorAuthenticator
 
 
 def load_model():
-    return ImageClassifier()
+    return FrogFactorAuthenticator()

@@ -1,2 +1,4 @@
 huggingface_hub
 ultralytics
+numpy
+pandas
